@@ -1,0 +1,16 @@
+{
+  "autor": "Lorenzo Carbonell", 
+  "copyright": "2.021", 
+  "description": "A manager for the byeads.\nWith this extension you can enable or disable byeads.", 
+  "gettext-domain": "byeads-manager@atareao.es", 
+  "name": "ByeAds Manager", 
+  "settings-schema": "es.atareao.byeads-manager", 
+  "shell-version": [
+    "3.26", 
+    "3.28",
+    "3.36"
+  ], 
+  "url": "https://www.atareao.es/aplicacion/byeads-manager", 
+  "uuid": "byeads-manager@atareao.es", 
+  "version": 1
+}

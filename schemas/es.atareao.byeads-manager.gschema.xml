@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="byeads-manager@atareao.es">
+     <schema path="/es/atareao/byeads-manager/" id="es.atareao.byeads-manager">
+        <key name="debug" type="b">
+            <default>false</default>
+            <summary>Debug Mode</summary>
+            <description>Enable debug features and logging</description>
+        </key>
+        <key name="monitor" type="b">
+            <default>false</default>
+            <summary>Watch the byeads status</summary>
+            <description>Check if byeads is enabled</description>
+        </key>
+        <key name="watch-time" type="i">
+            <default>60</default>
+            <summary>Watch time</summary>
+            <description>Time to check if byeads is enabled</description>
+        </key>
+        <key name="darktheme" type="b">
+            <default>false</default>
+            <summary>Dark theme</summary>
+            <description>Enable dark theme otherwise light theme</description>
+        </key>
+    </schema>
+</schemalist>
