@@ -31,6 +31,7 @@ codefactor-badge: True
 </p>
 <h2>🏠 <a href="https://www.atareao.es/aplicacion/byeads-manager/" id="homepage">Homepage</a></h2>
 <p>With <span id="project_title">ByeAds Manager</span> you can enable, update or disable byeads from GNOME Shell.</p>
+<p>Forget about Ads and distractions. ByeAds adds to your /etc/hosts a list of hosts so you can say Bye Bye to Ads</p>
 
 ### How it works?
 
