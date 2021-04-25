@@ -25,23 +25,20 @@ msgid "Enable debug features and logging"
 msgstr "Habilita el modo de depuración"
 
 #: schemas/es.atareao.byeads-manager.gschema.xml:11
-#, fuzzy
 msgid "Watch the byeads status"
-msgstr "Vigila la webcam"
+msgstr "Vigila el estado de ByAds"
 
 #: schemas/es.atareao.byeads-manager.gschema.xml:12
-#, fuzzy
 msgid "Check if byeads is enabled"
-msgstr "Comprueba si el módulo del kernel está cargado"
+msgstr "Comprueba si ByAds está habilitado"
 
 #: schemas/es.atareao.byeads-manager.gschema.xml:16
 msgid "Watch time"
 msgstr "Tiempo entre comprobaciones"
 
 #: schemas/es.atareao.byeads-manager.gschema.xml:17
-#, fuzzy
 msgid "Time to check if byeads is enabled"
-msgstr "Tiempo entre comprobaciones de la carga del módulo del kernel"
+msgstr "Tiempo entre comprobaciones"
 
 #: schemas/es.atareao.byeads-manager.gschema.xml:21
 msgid "Dark theme"
@@ -52,18 +49,16 @@ msgid "Enable dark theme otherwise light theme"
 msgstr "Habilita el tema oscuro"
 
 #: extension.js:76 extension.js:181
-#, fuzzy
 msgid "Disable ByeAds"
-msgstr "Inhabilita la Webcam"
+msgstr "Inhabilita ByeAds"
 
 #: extension.js:82 extension.js:184
-#, fuzzy
 msgid "Enable ByeAds"
-msgstr "Habilita la configuración"
+msgstr "Habilita ByeAds"
 
 #: extension.js:88
 msgid "Update hosts file"
-msgstr ""
+msgstr "Actualiza el /etc/hosts"
 
 #: extension.js:114
 msgid "Settings"
@@ -155,9 +150,8 @@ msgid "Atareao"
 msgstr "Atareao"
 
 #: prefs.js:86
-#, fuzzy
 msgid "Copyright © 2021 Lorenzo Carbonell"
-msgstr "Copyright © 2018 Lorenzo Carbonell"
+msgstr "Copyright © 2021 Lorenzo Carbonell"
 
 #: prefs.js:93
 msgid ""
