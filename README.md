@@ -37,6 +37,9 @@ codefactor-badge: True
 This extension enable, disable and update byeads from GNOME Shell.
 
 It downloads from https://someonewhocares.org/hosts/zero/hosts a configuration for /etc/hosts, and adds it to your /etc/hosts original.
+
+When you enable ByeAds this hosts configuracion es copied to /etc/hosts and when you disable ByeAds it restores the original /etc/hosts
+
 <!-- end description -->
 
 <!-- start prerequisites -->
